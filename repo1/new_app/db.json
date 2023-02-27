@@ -1,0 +1,73 @@
+{
+  "restaurants": [
+    {
+      "id": 0,
+      "name": "smth",
+      "adress": "улица Пушкина, Дом 203",
+      "numRated": 2,
+      "rating": 5
+    },
+    {
+      "id": 1,
+      "name": "smth2",
+      "adress": "новая улица",
+      "numRated": 2,
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "name": "smth3",
+      "adress": "достоевская 10",
+      "numRated": 1,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "name": "smth4",
+      "adress": "шоссе номер 1",
+      "numRated": 1,
+      "rating": 4
+    },
+    {
+      "id": 4,
+      "name": "smth342",
+      "adress": "палатка у двойки",
+      "numRated": 1,
+      "rating": 4
+    },
+    {
+      "id": 5,
+      "name": "smth321",
+      "adress": "улица моя",
+      "numRated": 1,
+      "rating": 4
+    }
+  ],
+  "ratings": [
+    {
+      "id": "1",
+      "user": null,
+      "answer": 0
+    },
+    {
+      "id": "0",
+      "user": null,
+      "answer": 0
+    },
+    {
+      "id": "3",
+      "user": null,
+      "answer": 0
+    }
+  ],
+  "users": [
+    {
+      "id": 0,
+      "user": "jojo"
+    },
+    {
+      "id": 1,
+      "user": "jiji"
+    }
+  ]
+}
