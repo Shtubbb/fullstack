@@ -7,7 +7,7 @@ import { useRestaurants } from '../utils/useRestaurants';
 
 export function Header() {
   const dispatch = useDispatch();
-  const user = "bitch"
+  const user = "ilya"
   // const user = useSelector((state) => state.user.user);
   // useEffect(() => {
   //   if (isLogin()) {
